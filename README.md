@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Econometrics](https://github.com/kumarprakhar14/Econometrics)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on [Java Dockerfile](https://github.com/dockerfile/java)
 
