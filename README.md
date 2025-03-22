@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kumar Prakhar</h1>
 <h3 align="center">I am a passionate Data Science student from India.</h3>
 
-- 🔭 I’m currently working on [Econometrics](https://github.com/kumarprakhar14/Econometrics)
+- 🔭 I’m currently working on [Unique Deals](https://github.com/kumarprakhar14/unique-deals)
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on [Java Dockerfile](https://github.com/dockerfile/java)
+- 🌱 I’m currently learning **Backend Development** and **Flutter**
 
 - 🤝 I’m looking for help with [Econometrics](https://github.com/kumarprakhar14/Econometrics)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kumarprakhar14](https://github.com/kumarprakhar14)
+- 👨‍💻 All of my projects are available at [github/kumarprakhar14](https://github.com/kumarprakhar14)
 
-- 💬 Ask me about **Java, Python, Machine Learning, Data Analysis, Django**
+- 💬 Ask me about **Java, Python, Machine Learning, Data Analysis, Django, Node.js**
 
 - 📫 How to reach me **kumarprakharkp143@gmail.coom**
 
